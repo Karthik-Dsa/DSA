@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Karthik-Dsa/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Karthik-Dsa/DSA/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Karthik-Dsa/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1854-maximum-population-year](https://github.com/Karthik-Dsa/DSA/tree/master/1854-maximum-population-year) |
 ## Design
 |  |
 | ------- |
@@ -17,4 +18,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Karthik-Dsa/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Karthik-Dsa/DSA/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Karthik-Dsa/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1854-maximum-population-year](https://github.com/Karthik-Dsa/DSA/tree/master/1854-maximum-population-year) |
+## Counting
+|  |
+| ------- |
+| [1854-maximum-population-year](https://github.com/Karthik-Dsa/DSA/tree/master/1854-maximum-population-year) |
 <!---LeetCode Topics End-->
