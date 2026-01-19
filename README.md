@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Karthik-Dsa/DSA/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/Karthik-Dsa/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Karthik-Dsa/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Karthik-Dsa/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/Karthik-Dsa/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1854-maximum-population-year](https://github.com/Karthik-Dsa/DSA/tree/master/1854-maximum-population-year) |
 ## Design
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Karthik-Dsa/DSA/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/Karthik-Dsa/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Karthik-Dsa/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Karthik-Dsa/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/Karthik-Dsa/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1854-maximum-population-year](https://github.com/Karthik-Dsa/DSA/tree/master/1854-maximum-population-year) |
 ## Counting
@@ -43,12 +45,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Karthik-Dsa/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Karthik-Dsa/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Karthik-Dsa/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Karthik-Dsa/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 ## Math
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Karthik-Dsa/DSA/tree/master/0523-continuous-subarray-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Karthik-Dsa/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 ## Sliding Window
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/Karthik-Dsa/DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Karthik-Dsa/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
